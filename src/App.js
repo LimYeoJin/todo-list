@@ -1,11 +1,11 @@
 import React from 'react';
-import './App.css';
+import TodoListTemplate from './Components/TodoListTemplate';
 
 function App() {
   return (
-    <div className="App">
-      hi
-    </div>
+    <TodoListTemplate>
+      
+    </TodoListTemplate>
   );
 }
 
